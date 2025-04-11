@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/task_32.6.1.dir/main.cpp.o -o task_32.6.1 
