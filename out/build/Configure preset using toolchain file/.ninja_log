@@ -1,5 +1,5 @@
 # ninja log v5
 0	340	1744462388601160128	CMakeFiles/task_32.6.1.dir/ClassThatUsesDB.cpp.o	afade21d8507e3cf
 1	1760	1744462390022354730	CMakeFiles/task_32.6.1.dir/main.cpp.o	ccd74fc5463ccd5c
-1	3716	1744462391975617535	CMakeFiles/task_32.6.1.dir/ClassThatUsesDBTest.cpp.o	d5f4d94bcd4f137d
-3716	3872	1744462392131638272	task_32.6.1	b2409b346c233f99
+2	2927	1744485081924626551	CMakeFiles/task_32.6.1.dir/ClassThatUsesDBTest.cpp.o	d5f4d94bcd4f137d
+2928	3023	1744485082021625947	task_32.6.1	b2409b346c233f99
